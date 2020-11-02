@@ -3,12 +3,12 @@ entries:
   spring-music:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-11-02T14:35:34.674784-08:00"
+    created: "2020-11-02T15:31:40.8249412-08:00"
     description: A Helm chart for Kubernetes
-    digest: ece55f04865c70007e6294472ce80feb35fc5431ea5d50448240401e30da9878
+    digest: 7dfc752e1469e07052a4c9f1af2461d0651df4f6b09e41182860501d14fce25f
     name: spring-music
     type: application
     urls:
     - https://willisc7.github.io/helm-repo/spring-music.tgz
     version: 0.1.0
-generated: "2020-11-02T14:35:34.660932-08:00"
+generated: "2020-11-02T15:31:40.8245189-08:00"
